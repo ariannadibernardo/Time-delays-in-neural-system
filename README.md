@@ -1,5 +1,5 @@
 # Time delays in neural system
-Some code from my master thesis project
+Some code from my master thesis project.
 
 Conduction delays are typically ignored in computational models of networks of interacting neurons or populations of neurons. Here we use two models that highlight the role that delays have on maintaining neural communication significant and efficient:
 
